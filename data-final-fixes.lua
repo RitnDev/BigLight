@@ -1,5 +1,5 @@
-require("lualib/mining-drill/electric-mining-drill")
-require("lualib/train/train-stop")
+require("lualib/mining-drill/bigLight")
+require("lualib/train/bigLight")
 
 ----------------------------------- ELECTRIC MINING DRILL
 
@@ -22,3 +22,4 @@ end
 if mods["train-scaling"] then
 train_stop("train-scaling-stop")
 end
+

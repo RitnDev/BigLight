@@ -22,9 +22,19 @@ data:extend {
 		type = "int-setting",
 		name = "ritnmods-bl-03",
 		setting_type = "startup",
-		default_value = 5,
+		default_value = 4,
 		minimum_value = 0,
 		maximum_value = 5,
 		order = "ritnmods-bl-03"
+	},
+	{
+		-- Taille de la lampe
+		type = "int-setting",
+		name = "ritnmods-bl-04",
+		setting_type = "startup",
+		default_value = 3,
+		minimum_value = 0,
+		maximum_value = 5,
+		order = "ritnmods-bl-04"
 	},
 }

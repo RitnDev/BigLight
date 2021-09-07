@@ -1,4 +1,5 @@
-require("lualib/mining-drill/electric-mining-drill")
+require("lualib/mining-drill/bigLight")
+require("lualib/power-switch/bigLight")
 
 ----------------------------------- ELECTRIC MINING DRILL
 
@@ -48,3 +49,9 @@ if mods["bobmining"] then
     electric_mining_drill("bob-area-mining-drill-3")
     electric_mining_drill("bob-area-mining-drill-4")
 end
+
+
+----------------------------------- POWER SWITCH
+
+-- Vanilla
+power_switch("power-switch")
