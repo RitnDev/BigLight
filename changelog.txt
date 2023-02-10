@@ -1,5 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 07.09.2021
+  Fix:
+    - Fixe de la compatibilité avec Krastorio2.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 07.09.2021
+  Add:
+    - Ajout des Big Light sur les commutateurs (power-switch) vanilla uniquement.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 03.09.2021
+  Add:
+    - Migration du code du mod : BigLightElectricMiningDrill & BigLightTrainStop dans ce mod.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: 27.08.2020
+Date: 01.09.2021
   New:
     - Création du mod.

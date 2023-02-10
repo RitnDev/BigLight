@@ -1,5 +1,5 @@
 local graphics = {}
-local mod_name = "__BigLightElectricMiningDrill__/mods/krastorio2"
+local mod_name = "__BigLight__/mods/krastorio2"
 
 local function electric_mining_drill_status_leds_working_visualisation()
 	local led_blend_mode = nil
