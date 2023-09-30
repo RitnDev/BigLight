@@ -12,14 +12,16 @@ end
 
 ----------------------------------- TRAIN
 --vanilla
-train_stop("train-stop")
+if not mods["trainstopnostalgia"] then
+    train_stop("train-stop")
+end
 
 --LTN
 if mods["LogisticTrainNetwork"] then
-train_stop("logistic-train-stop")
+    train_stop("logistic-train-stop")
 end
 
 if mods["train-scaling"] then
-train_stop("train-scaling-stop")
+    train_stop("train-scaling-stop")
 end
 
