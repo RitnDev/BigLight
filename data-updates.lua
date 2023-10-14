@@ -1,5 +1,6 @@
 require("lualib/mining-drill/bigLight")
 require("lualib/power-switch/bigLight")
+local lib_rail_signal = require("lualib/rail-signal/bigLight")
 
 ----------------------------------- ELECTRIC MINING DRILL
 
@@ -55,3 +56,10 @@ end
 
 -- Vanilla
 power_switch("power-switch")
+
+
+----------------------------------- RAIL SIGNAL
+
+-- Vanilla
+lib_rail_signal.rail_signal("rail-signal")
+lib_rail_signal.rail_signal_chain("rail-chain-signal")
