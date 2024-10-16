@@ -61,5 +61,5 @@ power_switch("power-switch")
 ----------------------------------- RAIL SIGNAL
 
 -- Vanilla
-lib_rail_signal.rail_signal("rail-signal")
-lib_rail_signal.rail_signal_chain("rail-chain-signal")
+--lib_rail_signal.rail_signal("rail-signal")
+--lib_rail_signal.rail_signal_chain("rail-chain-signal")

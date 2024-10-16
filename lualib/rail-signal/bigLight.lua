@@ -20,7 +20,7 @@ function rail_signal(name)
             frame_count = 3,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-signal-big-light-1.png",
                 priority = "high",
@@ -30,7 +30,7 @@ function rail_signal(name)
                 frame_count = 3,
                 direction_count = 8,
                 scale = size / 2
-            }
+            } ]]
         },
         [2] = {
             filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-signal-big-light-2.png",
@@ -41,7 +41,7 @@ function rail_signal(name)
             frame_count = 3,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-signal-big-light-2.png",
                 priority = "high",
@@ -51,7 +51,7 @@ function rail_signal(name)
                 frame_count = 3,
                 direction_count = 8,
                 scale = size / 2
-            }
+            } ]]
         },
         [3] = {
             filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-signal-big-light-3.png",
@@ -62,7 +62,7 @@ function rail_signal(name)
             frame_count = 3,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-signal-big-light-3.png",
                 priority = "high",
@@ -72,7 +72,7 @@ function rail_signal(name)
                 frame_count = 3,
                 direction_count = 8,
                 scale = size / 2
-            }
+            } ]]
         }
     }
      
@@ -116,7 +116,7 @@ function rail_signal_chain(name)
             axially_symmetrical = false,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-chain-signal-big-light-1.png",
                 priority = "high",
@@ -128,7 +128,7 @@ function rail_signal_chain(name)
                 axially_symmetrical = false,
                 direction_count = 8,
                 scale = size / 2
-            }
+            } ]]
         },
         [2] = {
             filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-chain-signal-big-light-2.png",
@@ -141,7 +141,7 @@ function rail_signal_chain(name)
             axially_symmetrical = false,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-chain-signal-big-light-2.png",
                 priority = "high",
@@ -153,7 +153,7 @@ function rail_signal_chain(name)
                 axially_symmetrical = false,
                 direction_count = 8,
                 scale = size / 2
-            }
+            } ]]
         },
         [3] = {
             filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-chain-signal-big-light-3.png",
@@ -166,7 +166,7 @@ function rail_signal_chain(name)
             axially_symmetrical = false,
             direction_count = 8,
             scale = size / 4,
-            hr_version =
+            --[[ hr_version =
             {
                 filename = "__BigLight__/graphics/entity/rail-signal/hr-rail-chain-signal-big-light-3.png",
                 priority = "high",
@@ -178,7 +178,7 @@ function rail_signal_chain(name)
                 axially_symmetrical = false,
                 direction_count = 8,
                 scale = size / 2,
-            }
+            } ]]
         }
     }
 

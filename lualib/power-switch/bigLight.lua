@@ -17,7 +17,7 @@ function power_switch(name)
           tint = {0,1,0,0.8},
           shift = util.by_pixel(23, 2),
           scale = value / 4,
-          hr_version =
+          --[[ hr_version =
             {
               filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
               width = 20,
@@ -26,7 +26,7 @@ function power_switch(name)
               tint = {0,1,0,0.8},
               shift = util.by_pixel(23, 2),
               scale = value / 2,
-            }
+            } ]]
         }
       }
     }
@@ -43,7 +43,7 @@ function power_switch(name)
           tint = {1,0,0,0.8},
           shift = util.by_pixel(23, 6),
           scale = value / 4,
-          hr_version =
+          --[[ hr_version =
             {
               filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
               width = 20,
@@ -52,7 +52,7 @@ function power_switch(name)
               tint = {1,0,0,0.8},
               shift = util.by_pixel(23, 6),
               scale = value / 2,
-            }
+            } ]]
         }
       }
     }

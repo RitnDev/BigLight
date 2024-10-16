@@ -12,7 +12,7 @@ return
           height = 5,
           frame_count = 1,
           shift = util.by_pixel(-70.5, -44.5),
-          hr_version =
+          --[[ hr_version =
           {
             filename = "__BigLight__/graphics/entity/train-stop/vert/hr-train-stop-north-light-1.png",
             width = 17,
@@ -20,7 +20,7 @@ return
             frame_count = 1,
             shift = util.by_pixel(-70.75, -44.25),
             scale = 0.5
-            }
+            } ]]
         },
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
@@ -30,7 +30,7 @@ return
           tint = {0,1,0,0.5},
           shift = util.by_pixel(-70.5, -44.5),
           scale = 0.5,
-          hr_version =
+          --[[ hr_version =
           {
             filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
             width = 20,
@@ -39,7 +39,7 @@ return
             tint = {0,1,0,0.5},
             shift = util.by_pixel(-70.75, -44.25),
             scale = 1,
-          }
+          } ]]
         }
     }},
     west = { layers = {
@@ -49,7 +49,7 @@ return
         height = 9,
         frame_count = 1,
         shift = util.by_pixel(34.5, 19.5),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/vert/hr-train-stop-east-light-1.png",
           width = 6,
@@ -57,7 +57,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(34.5, 19.5),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-E-light.png",
@@ -67,7 +67,7 @@ return
         tint = {0,1,0,0.5},
         shift = util.by_pixel(34.5, 19.5),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-E-light.png",
           width = 20,
@@ -76,7 +76,7 @@ return
           tint = {0,1,0,0.5},
           shift = util.by_pixel(34.5, 19.5),
           scale = 1,
-        }
+        } ]]
       }
     }},
     south = { layers = {
@@ -86,7 +86,7 @@ return
         height = 2,
         frame_count = 1,
         shift = util.by_pixel(70, -95),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/vert/hr-train-stop-south-light-1.png",
           width = 16,
@@ -94,7 +94,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(70, -95),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-S-light.png",
@@ -104,7 +104,7 @@ return
         tint = {0,1,0,0.5},
         shift = util.by_pixel(70, -95),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-S-light.png",
           width = 20,
@@ -113,7 +113,7 @@ return
           tint = {0,1,0,0.5},
           shift = util.by_pixel(70, -95),
           scale = 1,
-        }
+        } ]]
       }
     }},
     east = { layers = {
@@ -123,7 +123,7 @@ return
         height = 8,
         frame_count = 1,
         shift = util.by_pixel(-30.5, -112),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/vert/hr-train-stop-west-light-1.png",
           width = 6,
@@ -131,7 +131,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(-30.5, -112),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-W-light.png",
@@ -141,7 +141,7 @@ return
         tint = {0,1,0,0.5},
         shift = util.by_pixel(-30.5, -112),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-W-light.png",
           width = 20,
@@ -150,7 +150,7 @@ return
           tint = {0,1,0,0.5},
           shift = util.by_pixel(-30.5, -112),
           scale = 1,
-        }
+        } ]]
       }
     }}
   },
@@ -163,7 +163,7 @@ return
         height = 5,
         frame_count = 1,
         shift = util.by_pixel(-70.5, -44.5),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__base__/graphics/entity/train-stop/hr-train-stop-north-red-light-1.png",
           width = 17,
@@ -171,7 +171,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(-70.75, -44.25),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
@@ -181,7 +181,7 @@ return
         tint = {1,0,0,0.5},
         shift = util.by_pixel(-70.5, -44.5),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-N-light.png",
           width = 20,
@@ -190,7 +190,7 @@ return
           tint = {1,0,0,0.5},
           shift = util.by_pixel(-70.75, -44.25),
           scale = 1,
-        }
+        } ]]
       }
     }},
     west = { layers = {
@@ -200,7 +200,7 @@ return
         height = 9,
         frame_count = 1,
         shift = util.by_pixel(34.5, 19.5),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__base__/graphics/entity/train-stop/hr-train-stop-east-red-light-1.png",
           width = 6,
@@ -208,7 +208,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(34.5, 19.5),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-E-light.png",
@@ -218,7 +218,7 @@ return
         tint = {1,0,0,0.5},
         shift = util.by_pixel(34.5, 19.5),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-E-light.png",
           width = 20,
@@ -227,7 +227,7 @@ return
           tint = {1,0,0,0.5},
           shift = util.by_pixel(34.5, 19.5),
           scale = 1,
-        }
+        } ]]
       }
     }},
     south = { layers = {
@@ -237,7 +237,7 @@ return
         height = 2,
         frame_count = 1,
         shift = util.by_pixel(70, -95),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__base__/graphics/entity/train-stop/hr-train-stop-south-red-light-1.png",
           width = 16,
@@ -245,7 +245,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(70, -95),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-S-light.png",
@@ -255,7 +255,7 @@ return
         tint = {1,0,0,0.5},
         shift = util.by_pixel(70, -95),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-S-light.png",
           width = 20,
@@ -264,7 +264,7 @@ return
           tint = {1,0,0,0.5},
           shift = util.by_pixel(70, -95),
           scale = 1,
-        }
+        } ]]
       }
     }},
     east = { layers = {
@@ -274,7 +274,7 @@ return
         height = 8,
         frame_count = 1,
         shift = util.by_pixel(-30.5, -112),
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__base__/graphics/entity/train-stop/hr-train-stop-west-red-light-1.png",
           width = 6,
@@ -282,7 +282,7 @@ return
           frame_count = 1,
           shift = util.by_pixel(-30.5, -112),
           scale = 0.5
-          }
+          } ]]
       },
       {
         filename = "__BigLight__/graphics/entity/train-stop/hr-W-light.png",
@@ -292,7 +292,7 @@ return
         tint = {1,0,0,0.5},
         shift = util.by_pixel(-30.5, -112),
         scale = 0.5,
-        hr_version =
+        --[[ hr_version =
         {
           filename = "__BigLight__/graphics/entity/train-stop/hr-W-light.png",
           width = 20,
@@ -301,7 +301,7 @@ return
           tint = {1,0,0,0.5},
           shift = util.by_pixel(-30.5, -112),
           scale = 1,
-        }
+        } ]]
       }
     }}
   }
